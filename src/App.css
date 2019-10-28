@@ -1,0 +1,55 @@
+body{
+    background-color: #cec3ef;
+}
+
+.main{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 500px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.myForm{
+    margin-top: 28px;
+}
+
+.myInputs{
+    margin-right: 10px;
+    width:35%;
+    display: initial;
+}
+
+.titleColumn{
+    height: 500px;
+    background-color: #8089aa;
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+}
+.titles{
+    margin-top: 50px;
+}
+.gifImg{
+    width: 100%;
+}
+
+.inputColumn{
+    height: 500px;
+    background-image: url(https://media.giphy.com/media/l46C9spZVnZN0Z60M/giphy.gif);
+    background-position-x: 22px;
+    background-position-y: 40px;
+}
+
+.resultDiv{
+    font-size: 20px;
+    margin-top: 30px;
+}
+.results{
+    margin-bottom: 50px;
+    color: #77422b;
+}
